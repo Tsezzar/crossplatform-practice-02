@@ -1,0 +1,46 @@
+{
+  "areas": {
+    "корень — pubspec.yaml, README и др.": {
+      "files": 5,
+      "lines": 111
+    },
+    "codelab_rebuild.yaml — служебный скрипт": {
+      "files": 1,
+      "lines": 2674
+    },
+    "android/ — сборка и конфигурация": {
+      "files": 13,
+      "lines": 231
+    },
+    "изображения (бинарные ресурсы)": {
+      "files": 26,
+      "lines": 0
+    },
+    "android/ — код (Kotlin)": {
+      "files": 2,
+      "lines": 109
+    },
+    "ios/ — проект Xcode и конфигурация": {
+      "files": 20,
+      "lines": 1091
+    },
+    "ios/ — код (Swift)": {
+      "files": 4,
+      "lines": 110
+    },
+    "lib/ — общий код (Dart)": {
+      "files": 10,
+      "lines": 631
+    },
+    "test/ — тесты (Dart)": {
+      "files": 6,
+      "lines": 270
+    }
+  },
+  "code_share": {
+    "lib/ — общий код (Dart)": 74.2,
+    "android/ — код (Kotlin)": 12.8,
+    "ios/ — код (Swift)": 12.9
+  },
+  "code_total_lines": 850
+}
